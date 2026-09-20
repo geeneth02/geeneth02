@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Building%20ideas%20into%20digital%20experiences&fontSize=26&fontAlignY=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=180&section=header&text=Building%20ideas%20into%20digital%20experiences&fontSize=26&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 </div>
 
