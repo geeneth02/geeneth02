@@ -28,14 +28,14 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 
 I enjoy working across different areas of software development — from **mobile and web applications to websites, backend systems, APIs, and AI-powered solutions**.
 
-* 📱 Building cross-platform **mobile applications** with Flutter and Dart.
-* 🌐 Developing modern **web applications and websites**.
-* ⚙️ Building **backend services, REST APIs, authentication systems, and database-driven applications**.
-* 🤖 Exploring **AI-powered applications** and intelligent software solutions.
-* 🎨 Designing intuitive interfaces and transforming **UI/UX concepts into functional products**.
-* ☁️ Exploring **cloud platforms, deployment, and modern development workflows**.
-* 🧩 Interested in **clean architecture, scalable systems, and maintainable code**.
-* 🚀 Enjoy turning ideas into practical products that solve real-world problems.
+*  Building cross-platform **mobile applications** with Flutter and Dart.
+*  Developing modern **web applications and websites**.
+*  Building **backend services, REST APIs, authentication systems, and database-driven applications**.
+*  Exploring **AI-powered applications** and intelligent software solutions.
+*  Designing intuitive interfaces and transforming **UI/UX concepts into functional products**.
+*  Exploring **cloud platforms, deployment, and modern development workflows**.
+*  Interested in **clean architecture, scalable systems, and maintainable code**.
+*  Enjoy turning ideas into practical products that solve real-world problems.
 
 ---
 
@@ -134,14 +134,14 @@ I enjoy turning ideas into practical software solutions across **mobile, web, an
 
 ## 🌱 Currently Exploring
 
-* 🤖 Artificial Intelligence & AI-powered applications
-* 🏗️ Scalable software architecture
-* 🔌 REST APIs & backend development
-* ☁️ Cloud deployment & infrastructure
-* 📱 Advanced cross-platform application development
-* 🌐 Modern web application development
-* 🎨 UI/UX design & product development
-* 🧠 Data-driven software systems
+*  Artificial Intelligence & AI-powered applications
+*  Scalable software architecture
+*  REST APIs & backend development
+*  Cloud deployment & infrastructure
+*  Advanced cross-platform application development
+*  Modern web application development
+*  UI/UX design & product development
+*  Data-driven software systems
 
 ---
 
