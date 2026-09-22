@@ -150,7 +150,6 @@ I enjoy turning ideas into practical software solutions across **mobile, web, an
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeneth02&hide_border=true&theme=transparent" alt="Geeneth's GitHub Streak" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
