@@ -145,13 +145,6 @@ I enjoy turning ideas into practical software solutions across **mobile, web, an
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeneth02&hide_border=true&theme=transparent" alt="Geeneth's GitHub Streak" />
-</p>
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in **building projects, exploring new technologies, and collaborating with other developers**.
